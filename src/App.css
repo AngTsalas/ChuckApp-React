@@ -1,0 +1,20 @@
+.Searchbar{
+	margin: 1% 0 0 1%;
+}
+
+.Searchbar > button{
+	margin-left: 1%;
+}
+
+.Searchbar > input{
+	margin-left: 0.5%;
+}
+
+#result{
+	display: flex;
+	flex-flow: column;
+}
+
+.joke{
+	display: flex;
+}
