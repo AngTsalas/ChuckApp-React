@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint": "^5.14.1",
     "jquery": "^3.3.1",
     "jquery-confirm": "^3.3.2",
+    "prettier": "^1.16.4",
     "react": "^16.4.0",
     "react-confirm": "^0.1.17",
     "react-dom": "^16.4.0",
